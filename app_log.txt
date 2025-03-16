@@ -1,0 +1,35 @@
+
+2025-03-15 14:07:51 - [START] Logging Started
+2025-03-15 14:08:02 - [ENCRYPT] Encrypt String: HELLO
+2025-03-15 14:08:02 - [ENCRYPT] ERROR: Password NOT set!
+2025-03-15 14:08:26 - [DECRYPT] Decrypt String: HELLO
+2025-03-15 14:08:26 - [DECRYPT] ERROR: Password NOT set!
+2025-03-15 14:08:31 - [SET_PASSWORD] Setting Passkey...
+2025-03-15 14:08:34 - [SET_PASSWORD] Password Successfully Set!
+2025-03-15 14:08:40 - [ENCRYPT] Encrypt String: HELLO
+2025-03-15 14:08:40 - [ENCRYPT] Success: NSZOP
+2025-03-15 14:08:42 - [STOP] Logging Stopped
+2025-03-15 19:04:56 - [START] Logging Started
+2025-03-15 19:05:04 - [HISTORY] History Checked
+2025-03-15 19:05:12 - [ENCRYPT] Encrypt String: ZACK
+2025-03-15 19:05:12 - [ENCRYPT] ERROR: Password NOT set!
+2025-03-15 19:05:16 - [SET_PASSWORD] Setting Passkey...
+2025-03-15 19:05:23 - [SET_PASSWORD] Password Successfully Set!
+2025-03-15 19:05:28 - [ENCRYPT] Encrypt String: ZACK
+2025-03-15 19:05:28 - [ENCRYPT] Success: QECZ
+2025-03-15 19:05:45 - [DECRYPT] Decrypt String: QECZ
+2025-03-15 19:05:45 - [DECRYPT] Success: ZACK
+2025-03-15 19:05:47 - [HISTORY] History Checked
+2025-03-15 19:05:49 - [STOP] Logging Stopped
+2025-03-15 20:57:54 - [START] Logging Started
+2025-03-15 20:58:04 - [ENCRYPT] Encrypt String: HELLO
+2025-03-15 20:58:04 - [ENCRYPT] ERROR: Password NOT set!
+2025-03-15 20:58:13 - [SET_PASSWORD] Setting Passkey...
+2025-03-15 20:58:22 - [SET_PASSWORD] Password Successfully Set!
+2025-03-15 20:58:27 - [ENCRYPT] Encrypt String: HELLO
+2025-03-15 20:58:27 - [ENCRYPT] Success: NSZOP
+2025-03-15 20:58:28 - [HISTORY] History Checked
+2025-03-15 20:58:35 - [DECRYPT] Decrypt String: NSZOP
+2025-03-15 20:58:35 - [DECRYPT] Success: HELLO
+2025-03-15 20:58:39 - [HISTORY] History Checked
+2025-03-15 20:58:42 - [STOP] Logging Stopped
